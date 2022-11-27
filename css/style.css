@@ -117,4 +117,11 @@ header img{
     header img{
         height: 9rem;
     }
+    .spinner {
+        
+        margin-top: 10rem;
+    }
+    .spinner span {
+        font-size: 1.4rem;
+    }
 }
